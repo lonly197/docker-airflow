@@ -1,0 +1,49 @@
+### Vim ###
+[._]*.s[a-w][a-z]
+[._]s[a-w][a-z]
+*.un~
+Session.vim
+.netrwhist
+*~
+
+### Visual Studio ###
+# cache/options directory
+.vs/
+.vscode/
+
+### JetBrains Idea ###
+.idea/
+
+### SublimeText ###
+# cache files for sublime text
+*.tmlanguage.cache
+*.tmPreferences.cache
+*.stTheme.cache
+
+# workspace files are user-specific
+*.sublime-workspace
+
+# project files should be checked into the repository, unless a significant
+# proportion of contributors will probably not be using SublimeText
+# *.sublime-project
+
+# sftp configuration file
+sftp-config.json
+
+# Python
+__pycache__
+
+# DS
+.DS_Store
+
+# Backup file
+*.bak
+backup
+
+# Log file
+*.log
+log
+
+# Temp
+*.tmp
+tmp
